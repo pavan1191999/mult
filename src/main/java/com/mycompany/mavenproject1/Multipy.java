@@ -14,5 +14,7 @@ public class Multipy {
     public int multipys(int a,int b){
         return a*b;
     }
-    
+    public void sums(){
+        System.out.println("hii");
+    }
 }
